@@ -52,7 +52,7 @@
   "core-js": "^2.5.4",
   "ngx-markdown": "^8.1.0",
   "read-package-json": "^2.1.0",
-  "rxjs": "~6.4.0",
+  "rxjs": "~6.6.7",
   "semver": "^6.3.0",
   "zone.js": "^0.9.1"
  },
